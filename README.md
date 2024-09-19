@@ -18,7 +18,7 @@ This project serves as an example of developing a First Person Controller (FPC) 
 
 2. **Clone the Project:**
     ```sh
-    git clone [<repo-url>](https://github.com/kfunal/FPS)
+    git clone https://github.com/kfunal/FPS
     ```
 
 3. **Install Required Packages:**
