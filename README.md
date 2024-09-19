@@ -1,6 +1,4 @@
-**# FPS
- 
-**# FPS First Person Controller
+#** FPS First Person Controller
 
 This project serves as an example of developing a First Person Controller (FPC) in Unity. This README file includes instructions on how to use the project, installation steps, and important information.
 
